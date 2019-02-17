@@ -17,7 +17,7 @@ to:
 ## Installation
 
 ```javascript
-npm i console-log-timestamp --save`
+npm i console-log-timestamp --save
 ```
 
 ## Usage
