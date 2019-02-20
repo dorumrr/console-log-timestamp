@@ -1,4 +1,4 @@
-# console-log-timestamp
+# @dorumrr/console-log-timestamp
 
 Automatically adds a timestamp prefix to console.log()
 
@@ -17,13 +17,13 @@ to:
 ## Installation
 
 ```javascript
-npm i console-log-timestamp --save
+npm i --save @dorumrr/console-log-timestamp
 ```
 
 ## Usage
 
 ```javascript
-require('console-log-timestamp')
+require('@dorumrr/console-log-timestamp')
 ```
 
 ---
