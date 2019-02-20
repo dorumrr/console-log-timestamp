@@ -1,8 +1,11 @@
 {
-  "name": "console-log-timestamp",
+  "name": "@dorumrr/console-log-timestamp",
   "version": "1.0.1",
   "description": "Automatically adds a timestamp prefix to console.log()",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dorumrr/console-log-timestamp.git"
