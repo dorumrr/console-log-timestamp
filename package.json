@@ -1,6 +1,6 @@
 {
   "name": "@dorumrr/console-log-timestamp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Automatically adds a timestamp prefix to console.log()",
   "main": "index.js",
   "publishConfig": {
