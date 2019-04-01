@@ -1,5 +1,5 @@
 {
-  "name": "@dorumrr/console-log-timestamp",
+  "name": "console-log-timestamp",
   "version": "1.0.3",
   "description": "Automatically adds a timestamp prefix to console.log()",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dorumrr/console-log-timestamp.git"
+    "url": "git+https://github.com/dorumrr/npmjs-console-log-timestamp.git"
   },
   "keywords": [
     "console",
@@ -19,7 +19,7 @@
   "author": "Doru Moraru",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dorumrr/console-log-timestamp/issues"
+    "url": "https://github.com/dorumrr/npmjs-console-log-timestamp/issues"
   },
-  "homepage": "https://github.com/dorumrr/console-log-timestamp#readme"
+  "homepage": "https://github.com/dorumrr/npmjs-console-log-timestamp#readme"
 }
