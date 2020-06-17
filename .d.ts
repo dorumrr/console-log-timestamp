@@ -1,1 +1,1 @@
-declare module '@dorumrr/console-log-timestamp';
+declare module 'console-log-timestamp';
