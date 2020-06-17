@@ -1,6 +1,6 @@
 {
   "name": "console-log-timestamp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Automatically adds timestamp prefix to all console.log()",
   "main": "index.js",
   "types": ".d.ts",
