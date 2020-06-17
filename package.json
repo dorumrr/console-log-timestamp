@@ -19,5 +19,8 @@
   ],
   "author": "Doru Moraru",
   "license": "MIT",
-  "homepage": "https://github.com/dorumrr/npmjs-console-log-timestamp"
+  "homepage": "https://github.com/dorumrr/npmjs-console-log-timestamp",
+  "dependencies": {
+    "moment-timezone": "^0.5.31"
+  }
 }
