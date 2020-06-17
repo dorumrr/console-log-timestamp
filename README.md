@@ -1,16 +1,16 @@
 # console-log-timestamp
 
-Automatically adds timestamp prefix to all console.log()
+Automatically adds <b>timestamp</b> prefix to all <b>console.log()<b>
 
 From:
 ```bash
-Server is runing on port 3000
+Server started on port 3737
 ```
 
 to:
 
 ```bash
-2020-05-17 20:44:52.3420 ==> Server is runing on port 3000
+2020-06-17 17:30:25.4320 (Europe/London) ==> Server is runing on port 3737
 ```
 
 ## Installation
